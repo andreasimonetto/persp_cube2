@@ -3,7 +3,7 @@ PerspCube2
 
 ![Screenshot](https://raw.github.com/andreasimonetto/persp_cube2/master/images/screenshot1.png)
 
-Load and display 3D mesh files (.m, .obj, .ply) **having triangular** faces,
+Load and display 3D mesh files (.m, .obj, .ply) **having triangular faces**,
 implemented using only X Window System graphics primitives.
 
 Rendering algorithm is _Hidden Surface_ based on Z-buffer, while illumination
